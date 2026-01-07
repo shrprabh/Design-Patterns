@@ -1,0 +1,15 @@
+/Users/shreyasprabhakar/Documents/Design-Patterns/csharp/bin/Debug/net8.0/DesignPatterns
+/Users/shreyasprabhakar/Documents/Design-Patterns/csharp/bin/Debug/net8.0/DesignPatterns.deps.json
+/Users/shreyasprabhakar/Documents/Design-Patterns/csharp/bin/Debug/net8.0/DesignPatterns.runtimeconfig.json
+/Users/shreyasprabhakar/Documents/Design-Patterns/csharp/bin/Debug/net8.0/DesignPatterns.dll
+/Users/shreyasprabhakar/Documents/Design-Patterns/csharp/bin/Debug/net8.0/DesignPatterns.pdb
+/Users/shreyasprabhakar/Documents/Design-Patterns/csharp/obj/Debug/net8.0/DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shreyasprabhakar/Documents/Design-Patterns/csharp/obj/Debug/net8.0/DesignPatterns.AssemblyInfoInputs.cache
+/Users/shreyasprabhakar/Documents/Design-Patterns/csharp/obj/Debug/net8.0/DesignPatterns.AssemblyInfo.cs
+/Users/shreyasprabhakar/Documents/Design-Patterns/csharp/obj/Debug/net8.0/DesignPatterns.csproj.CoreCompileInputs.cache
+/Users/shreyasprabhakar/Documents/Design-Patterns/csharp/obj/Debug/net8.0/DesignPatterns.sourcelink.json
+/Users/shreyasprabhakar/Documents/Design-Patterns/csharp/obj/Debug/net8.0/DesignPatterns.dll
+/Users/shreyasprabhakar/Documents/Design-Patterns/csharp/obj/Debug/net8.0/refint/DesignPatterns.dll
+/Users/shreyasprabhakar/Documents/Design-Patterns/csharp/obj/Debug/net8.0/DesignPatterns.pdb
+/Users/shreyasprabhakar/Documents/Design-Patterns/csharp/obj/Debug/net8.0/DesignPatterns.genruntimeconfig.cache
+/Users/shreyasprabhakar/Documents/Design-Patterns/csharp/obj/Debug/net8.0/ref/DesignPatterns.dll
